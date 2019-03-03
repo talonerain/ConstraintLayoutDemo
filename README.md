@@ -1,4 +1,4 @@
-#ConstraintLayout
+ConstraintLayout
 1. 当我们希望控件A与控件B左侧对齐时，就可以使用下面的属性。   
         ```
         app:layout_constraintLeft_toLeftOf="@id/viewB"
